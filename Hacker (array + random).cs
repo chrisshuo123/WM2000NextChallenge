@@ -140,10 +140,10 @@ Sovietz
                 Terminal.WriteLine(@"
 
   ^     His Love Diary's Here:
- / \    https://www.youtube.com/   _____
-|===|   watch?v=FBnAZnfNB6U       /   /
-|___|                           _|____|
-/   \  LITTLE BIG - Lolly Bomb |_|  |_|
+ / \    https://www.youtube.com/ 
+|===|   watch?v=FBnAZnfNB6U    
+|___|                           
+/   \  LITTLE BIG - Lolly Bomb 
 ");
                 break;
         }
